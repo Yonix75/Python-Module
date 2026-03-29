@@ -1,0 +1,5 @@
+s = input("Enter a number: ")
+x = input("Enter a number: ")
+n = float(s)
+y = int(x) 
+print(y+n)

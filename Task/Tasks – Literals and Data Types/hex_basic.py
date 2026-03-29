@@ -1,0 +1,2 @@
+print(int(0xFF))
+print(int(0x1A))
